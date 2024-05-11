@@ -1,4 +1,4 @@
 <?php
     echo "Hello world";
-    echo "<h1>Cómo estás?</h1>";
+    echo "<p>Este es un mensaje</p>"
 ?>
